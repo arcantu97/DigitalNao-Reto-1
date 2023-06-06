@@ -1,0 +1,4 @@
+.custom-input-group .form-control {
+    flex-grow: 1;
+    width: auto;
+}

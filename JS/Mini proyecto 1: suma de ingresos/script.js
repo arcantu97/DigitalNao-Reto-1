@@ -1,7 +1,5 @@
 var compras = [];
 
-// document.getElementById('agregarCompra').addEventListener('click', agregarCompra);
-
 function agregarCompra() {
   var detalle = document.getElementById('detalleInput').value;
   var monto = document.getElementById('montoInput').value;
