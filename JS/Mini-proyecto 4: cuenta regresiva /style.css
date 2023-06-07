@@ -1,0 +1,38 @@
+body {
+   
+
+    background-image: url("https://ewscripps.brightspotcdn.com/dims4/default/4d95054/2147483647/strip/true/crop/800x450+0+0/resize/320x180!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F27%2Fc6%2F60bf3e304ad1a1dde27f82008ea9%2Ffireworks.gif");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    height: 95vh;
+}
+
+.wrapper {
+    display: flex;
+    align-self: center;
+}
+
+.title {
+    margin-left: 20px;
+    text-align: center;
+    font-size: 150px;
+    font-weight: bold;
+    font-family: "Arial Narrow", Arial, sans-serif;
+    color: white;
+    -webkit-text-stroke-width: 2px; /* Ancho del contorno */
+    -webkit-text-stroke-color: #000000; 
+
+}
+
+#counter {
+    font-size: 55px;
+    text-align: center;
+    font-family: "Arial Narrow", Arial, sans-serif;
+}
+
+td {
+    position: relative;
+}
