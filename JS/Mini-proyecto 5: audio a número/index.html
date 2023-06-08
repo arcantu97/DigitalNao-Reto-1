@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Audio a numero</title>
+        <link
+            rel="stylesheet"
+            href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" />
+        <link
+            rel="stylesheet"
+            href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css" />
+
+        <script src="script.js"></script>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <div class="container">
+            <div id="number-text" class="number-text">-</div>
+            <div class="button-row">
+                <button class="btn btn-primary" onclick="playAudioByNumber(1)">1</button>
+                <button class="btn btn-light" onclick="playAudioByNumber(2)">2</button>
+                <button class="btn btn-success" onclick="playAudioByNumber(3)">3</button>
+                <button class="btn btn-danger" onclick="playAudioByNumber(4)">4</button>
+                <button class="btn btn-warning" onclick="playAudioByNumber(5)">5</button>
+                <audio id="audio"></audio>
+            </div>
+        </div>
+    </body>
+</html>
