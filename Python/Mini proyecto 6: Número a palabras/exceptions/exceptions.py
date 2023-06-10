@@ -1,0 +1,2 @@
+class LargerNumberException(Exception):
+    pass
