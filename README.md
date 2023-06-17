@@ -35,3 +35,7 @@ En este repositorio se agregan los mini proyectos que se solicitan.
   
 - [Mini-proyecto 10: Juego de ahorcado](https://github.com/arcantu97/DigitalNao-Reto-1/tree/main/Python/Mini%20proyecto%2010%3A%20Juego%20ahorcado)
   ![Mini proyecto 10: Vista previa](https://github.com/arcantu97/DigitalNao-Reto-1/blob/main/Python/Mini%20proyecto%2010%3A%20Juego%20ahorcado/mp10.gif)
+
+## Ciclo 3 
+- [Mini-proyecto 11: Paint](https://github.com/arcantu97/DigitalNao-Reto-1/tree/main/Python/Mini%20proyecto%2011%3A%20Paint%20project)
+  ![Mini proyecto 11: Vista previa](https://github.com/arcantu97/DigitalNao-Reto-1/blob/main/Python/Mini%20proyecto%2011%3A%20Paint%20project/mp11.gif)
